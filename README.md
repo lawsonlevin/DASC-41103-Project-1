@@ -9,7 +9,7 @@ Download the code file - 'project1.ipynb' along with the two data files: 'projec
 When executing the notebook on your machine, ensure the following lines contain the correct path to the appropriate csv file.
 
 Found in Block 42:
-df = pd.read_csv("/Users/lawsonlevin/ML/project1/data/project_adult.csv")
+- df = pd.read_csv("/Users/lawsonlevin/ML/project1/data/project_adult.csv")
 
 Found in Block 59:
-dfvalidation = pd.read_csv("/Users/lawsonlevin/ML/project1/data/project_validation_inputs.csv")
+- dfvalidation = pd.read_csv("/Users/lawsonlevin/ML/project1/data/project_validation_inputs.csv")
